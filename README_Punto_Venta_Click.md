@@ -20,11 +20,11 @@ Este proyecto fue desarrollado como parte de la residencia profesional durante e
 
 | Tecnología      | Uso aproximado |
 |----------------|----------------|
-| PHP            | 40%            |
-| MySQL          | 25%            |
-| HTML + CSS     | 10%            |
-| Bootstrap      | 10%            |
-| JavaScript     | 10%            |
+| PHP            | 60%            |
+| MySQL          | 45%            |
+| HTML + CSS     | 60%            |
+| Bootstrap      | 40%            |
+| JavaScript     | 40%            |
 | Tailwind CSS   | 5%             |
 
 ## 🗂️ Estructura del proyecto
@@ -34,13 +34,9 @@ Este proyecto fue desarrollado como parte de la residencia profesional durante e
 - `/controllers`, `/models`, `/views` – Backend en PHP con estructura MVC
 - `/assets` – Archivos estáticos
 
-## 📸 Capturas (agregar después)
+## Url Proyecto
 
-```bash
-/screenshots/login_admin.png
-/screenshots/ventas_tienda.png
-/screenshots/pedidos_online.png
-```
+https://tiendaweb.trinovadevps.com/
 
 ## 🚀 Cómo ejecutar el proyecto
 
