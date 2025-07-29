@@ -3,7 +3,7 @@
 
 Este proyecto fue desarrollado como parte de la residencia profesional durante el periodo 2022–2023 en una empresa de joyería. El objetivo fue digitalizar el proceso de ventas físicas y permitir pedidos en línea con recogida en tienda.
 
-## 🛒 Funcionalidades principales
+## 🛒 Funcionalidades principales 
 
 - Gestión de ventas con carrito de compras
 - Control de stock e inventario en tiempo real
